@@ -1,6 +1,6 @@
 {
   "name": "2-todoapp",
-  "homepage": "https://github.com/Aditya705070/aditya-todo",
+  "homepage": "https://Aditya705070.github.io/aditya-todo",
   "private": true,
   "version": "0.0.0",
   "type": "module",
@@ -10,7 +10,8 @@
     "lint": "eslint .",
     "preview": "vite preview",
     "predeploy": "npm run build",
-    "deploy": "gh-pages -d dist"  },
+    "deploy": "gh-pages -d dist"
+  },
   "dependencies": {
     "react": "^19.0.0",
     "react-dom": "^19.0.0"
